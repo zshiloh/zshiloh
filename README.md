@@ -1,6 +1,6 @@
 ### <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Soy, Juan S.C.</h1>
 
-<h1 align="center"><a href="#"><img width="200" height="200" src="[https://i.imgur.com/799y5A3.png](https://www.pinterest.com/pin/605593481176016158/)"/></a></h1>
+<h1 align="center"><a href="#"><img width="200" height="200" src="https://imgur.com/a/G1zDZTn"/></a></h1>
 
 ## 🙋‍♂️ Acerca de mi
 
