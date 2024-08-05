@@ -8,7 +8,7 @@ Soy un desarrollador web principiante y estoy interesado en desarrollar cosas nu
 
 - 📫 Como comunicarse conmigo **retoxdhajufere@gmail.com**
 
-- ⚡ Fun fact **Me gustar jugar y trabajo en un negocio familiar.**
+- ⚡ Dato curioso **Me gustar jugar y trabajo en un negocio familiar.**
 
 ## 🚀 Lenguajes y herramientas:
 
