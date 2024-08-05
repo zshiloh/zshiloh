@@ -20,8 +20,6 @@ Soy un desarrollador web principiante y estoy interesado en desarrollar cosas nu
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
-<br/>
-
 ## 👑 Discord
 
 - **zshiloh**
