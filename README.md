@@ -1,16 +1,27 @@
-## Hi there 👋
+### <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Soy Juan S.C.</h1>
 
-<!--
-**zshiloh/zshiloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><a href="#"><img width="200" height="200" src="[https://i.imgur.com/799y5A3.png](https://www.pinterest.com/pin/605593481176016158/)"/></a></h1>
 
-Here are some ideas to get you started:
+## 🙋‍♂️ Acerca de mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un desarrollador web principiante y estoy interesado en desarrollar cosas nuevas que me emocionen mucho. Me encanta explorar nuevas tecnologías y ser practicante, me gusta estar al tanto de las últimas tendencias.
+
+- 📫 Como comunicarse conmigo **retoxdhajufere@gmail.com**
+
+- ⚡ Fun fact **Me gustar jugar y trabajo en un negocio familiar.**
+
+## 🚀 Lenguajes y herramientas:
+
+<p align="left"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+</p>
+
+<br/>
+
+## 👑 Discord
+
+- **zshiloh**
